@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotoCam Pro</string>
+    <string name="mode_photo">Photo</string>
+    <string name="mode_video">Video</string>
+    <string name="mode_slow_mo">Slow Motion</string>
+    <string name="mode_ultra_res">Ultra-Res</string>
+    <string name="mode_portrait">Portrait</string>
+    <string name="mode_more">More</string>
+</resources>
